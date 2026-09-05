@@ -1,0 +1,17 @@
+1.D4 2.C4 COMPLETE WHITE REPERTOIRE - QUALITY ASSURANCE
+
+Course volumes: 20
+Final PDF files: 40
+Focused chapters: 400
+Total PDF pages: 1320
+Total course size: 41.33 MiB
+Legal move validation: passed for all 400 chapter diagrams and 5,769 played half-moves
+Stockfish screening: 103 distinct theory lines and 533 individual White moves passed
+PDF reopen and text extraction: passed for all files
+Metadata titles and outline bookmarks: present in all files
+ASCII-hyphen policy: passed; no forbidden dash or replacement glyphs in extracted text
+Exact page-count structure: passed for every course book and workbook
+Representative pages rendered: 160
+Visual contact sheets prepared: 14
+
+Manual visual review: passed for all 14 contact sheets and all 160 representative pages.

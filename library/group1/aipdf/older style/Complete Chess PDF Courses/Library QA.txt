@@ -1,0 +1,18 @@
+COMPLETE CHESS PDF COURSE LIBRARY - QUALITY ASSURANCE
+
+Course subjects: 41
+Final PDF files: 82
+Focused model-position chapters: 1069
+Total PDF pages: 3453
+Total library size: 166.61 MiB
+Legal-move and FEN validation: passed for all newly generated chapter diagrams
+New custom opening engine screen: 80 reference lines and 900 moves passed
+PDF reopen and text extraction: passed for all files
+Metadata titles: present in all files
+PDF outline bookmarks: present in all files
+ASCII-hyphen policy: passed; no forbidden dash or replacement glyphs in extracted text
+Exact page-count structure: passed for all files
+Representative extension pages rendered: 180
+Visual contact sheets prepared: 15
+
+Manual visual review: passed for all 15 contact sheets and all 180 representative pages.
