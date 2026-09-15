@@ -1,12 +1,12 @@
 # chess6 — Complete Chess PDF Courses and original archive
 
-Part of the [complete Chess Library](https://github.com/knightway8/chess4#readme). This repository contains **127 original files**, totaling **359.4 MiB** of source content.
+Part of the [complete Chess Library](https://github.com/1d42c4/chess4#readme). This repository contains **127 original files**, totaling **359.4 MiB** of source content.
 
 | Repository | Contents | Original files | Download size |
 | --- | --- | ---: | ---: |
-| [chess4](https://github.com/knightway8/chess4) | Opening courses and complete repertoires | 385 | 346.2 MiB |
-| [chess5](https://github.com/knightway8/chess5) | Strategy, endgames, reference and detailed courses | 1,123 | 315.1 MiB |
-| [chess6](https://github.com/knightway8/chess6) | Complete Chess PDF Courses and original archive | 127 | 359.4 MiB |
+| [chess4](https://github.com/1d42c4/chess4) | Opening courses and complete repertoires | 385 | 346.2 MiB |
+| [chess5](https://github.com/1d42c4/chess5) | Strategy, endgames, reference and detailed courses | 1,123 | 315.1 MiB |
+| [chess6](https://github.com/1d42c4/chess6) | Complete Chess PDF Courses and original archive | 127 | 359.4 MiB |
 
 ## In this repository
 
